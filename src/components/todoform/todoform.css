@@ -1,0 +1,15 @@
+input[type=text], select {
+    color: var(--cool-grey);
+    border: 0;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+input[type=text]:focus-visible {
+    outline: none;
+}
+
+form {
+    border-bottom: solid 1px var(--silver);
+    margin-bottom: 25px;
+}

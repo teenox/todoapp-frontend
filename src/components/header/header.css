@@ -1,0 +1,11 @@
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  color: var(--dark-blue-grey);
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+.logo {
+    margin-bottom: 25px;
+}
